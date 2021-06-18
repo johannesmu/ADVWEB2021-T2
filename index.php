@@ -13,7 +13,7 @@ echo "<h1>$date</h1>";
 // output html with single quotes
 echo '<p>' . $day . '</p>';
 ?>
-
+<!-- div containing php code -->
 <div style="background-color:green;color:white;">
     <?php echo $test ?>
 </div>
